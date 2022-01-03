@@ -1,0 +1,32 @@
+ /* CSS Cascading Style Sheets */
+/* 25px 0 is top and bottom left and right 0 */
+
+body{
+    margin: 0;
+
+}
+
+
+ header{
+     background-color: #182c36;
+     text-align: center;
+     color: blanchedalmond;
+     padding: 25px 0px; 
+     margin-bottom: 25px;
+ }
+
+ main{
+     background-color:#dceef7 ;
+     width: 600px;
+     padding:25px;
+     border: solid #02151f 5px;
+     margin: 0 auto;
+ }
+
+ footer{
+     background-color: #182c36;
+     text-align: center;
+     color: blanchedalmond;
+     padding: 25px 25px;
+     margin-top: 25px;
+ }
